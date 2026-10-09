@@ -5,3 +5,4 @@ List of program:
 001 - Simple iteration
 002 - Biseksi
 003 - Regula Falsi
+004 - Newton Raphson
