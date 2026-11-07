@@ -7,7 +7,7 @@ def f(x):
 a = 0
 b = 1
 n = 10
-dx = (b-a)/n #float(input("Masukkan langkah (Δx): "))
+dx = (b-a)/n
 x = a
 akar_ditemukan = False
 a1 = a
@@ -24,8 +24,8 @@ while x <= b:
 
   if fx1 * fx2 < 0:
     akar_ditemukan = True
-    a1 = x      # batas bawah yang baru
-    b1 = x + dx # batas atas yang baru
+    a1 = x          # batas bawah yang baru
+    b1 = x + dx     # batas atas yang baru
   x += dx
 print("-------------------------------")
 if akar_ditemukan:
