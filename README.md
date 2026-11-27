@@ -18,4 +18,5 @@ compilation of numerical methods algorithm during college
 011 - Invers-and-Determinant-Matrix
 012 - Decomposition_L-U
 013 - Jacobi-Iteration
-014 - Gauss-Seidel-Iteration
+014 - Gauss
+015 - Gauss-Jordan
